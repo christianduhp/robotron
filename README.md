@@ -21,6 +21,3 @@ A função atualizaEstatistica() é chamada a cada vez que um controle é clicad
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
 ![image](https://user-images.githubusercontent.com/85292359/233507229-5f249f37-f17e-42ec-ab67-d641e6cc59b8.png)
 
-## Detalhes do projeto
-
-Textos e imagens que descrevam seu projeto, suas conquistas, seus desafios, próximos passos, etc...
