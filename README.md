@@ -19,4 +19,4 @@ A função atualizaEstatistica() é chamada a cada vez que um controle é clicad
 | :sparkles: Nome        | **Robotron 2000**
 | :label: Tecnologias | HTML, CSS, JS
 
-![image](https://user-images.githubusercontent.com/85292359/233507229-5f249f37-f17e-42ec-ab67-d641e6cc59b8.png)
+![image](https://user-images.githubusercontent.com/85292359/233507229-5f249f37-f17e-42ec-ab67-d641e6cc59b8.png#vitrinedev)
